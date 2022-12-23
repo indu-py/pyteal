@@ -1,3 +1,4 @@
 sphinx==4.2.0
 sphinx-rtd-theme==1.0.0
 py-algorand-sdk
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
